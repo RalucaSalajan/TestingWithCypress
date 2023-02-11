@@ -1,6 +1,7 @@
 # Testing with Cypress
 
-I made several tests on https://www.saucedemo.com/ and https://www.google.com/ websites.
+Below are some tests samples that I wrote from my experience.
+
 --------------------------------------------------------------------------------------
 
 **I have described the tests below:**
