@@ -13,6 +13,10 @@ Below are some tests samples that I wrote from my experience.
 
 ![saucedemo](https://user-images.githubusercontent.com/120104620/218255374-4656181a-be4f-418d-9181-79965699d69a.png)
 
+**Tests on https://creseclujnapoca.ro/**
+
+![crcluj](https://user-images.githubusercontent.com/120104620/218310308-67af3312-0ead-46c6-9752-8f36d0862ab3.png)
+
 
 
 
